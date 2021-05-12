@@ -1,13 +1,5 @@
 ## 消息队列扩展包
 
-### dev 环境
-
-http://rabbitmq.dev.lanxinka.com/
-
-Username: admin
-
-Password: admin
-
 ### 使用说明
 
 建立连接
